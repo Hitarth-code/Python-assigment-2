@@ -144,7 +144,7 @@ def main():
     print("===================================")
     print("       GradeBook Analyzer CLI      ")
     print("===================================")
-    print("Author: Vaibhav Kumar    Roll No.: 2501730427    Date: 12-11-2025")
+    print("Author: Hitarth Kumar Srivastava   Roll No.: 2501730430    Date: 11-11-2025")
 
     while True:
         print("\nMenu:")
